@@ -191,7 +191,7 @@
 <br>
 
 ### 🛒 스캔앤고
-
+*방문고객과 외부일행 화면은 함께 봐주세요!
 <div align="center">
 <table>
 <tr align="center">
@@ -229,7 +229,7 @@
 <br>
 
 ### 💳 상품 결제
-
+*방문고객과 외부일행 화면은 함께 봐주세요!
 <div align="center">
 <table>
 <tr align="center">
@@ -246,7 +246,7 @@
 </div>
 
 ### 🙏 일행 요청 리스트
-
+*방문고객과 외부일행 화면은 함께 봐주세요!
 <div align="center">
 <table>
 <tr align="center">
@@ -309,7 +309,7 @@
 <tr>
 <td><img src="https://github.com/user-attachments/assets/d284c685-94b8-48be-859b-4f15104272a1" width=300 /></td>
 <td><img src="https://github.com/user-attachments/assets/eb660a3b-683d-4c53-9700-a7bb851ad32b" width=300 /></td>
-<td><img src="https://github.com/user-attachments/assets/5ad5ef07-a227-4782-95ba-49148f6e220f" width=300 /></td>
+<td><img src="https://github.com/user-attachments/assets/8c116365-1303-4377-87b9-500d22df9e72" width=300 /></td>
 <td><img src="https://github.com/user-attachments/assets/ad52ed5e-11d4-420a-b76d-663badb1fdb6" width=300 /></td>
 </tr>
 </table>
