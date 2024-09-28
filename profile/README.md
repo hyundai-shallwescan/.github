@@ -47,18 +47,12 @@
  : 온라인 뿐만 아니라 오프라인 고객의 행동 데이터를 수집하여 고객의 선호도와 쇼핑 패턴을 파악
 
 ## 🌟 주요 기능
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/41f4263b-8a23-41ae-8fab-138cd5841d09/49d31bf4-e174-45f2-a500-093fd956f797/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/41f4263b-8a23-41ae-8fab-138cd5841d09/f5bff427-bba5-481f-b469-85c2ea0d9a58/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/41f4263b-8a23-41ae-8fab-138cd5841d09/e076332c-8da0-46df-a25b-b182dab48e77/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/41f4263b-8a23-41ae-8fab-138cd5841d09/8198d9af-9f88-48b0-823e-dd63befc4854/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/41f4263b-8a23-41ae-8fab-138cd5841d09/bca288e2-e8c2-48d1-b3f4-6f12d3a83433/image.png)
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/41f4263b-8a23-41ae-8fab-138cd5841d09/9943cd9c-9682-4593-ad73-230a5f0e99b7/image.png)
+![image](https://github.com/user-attachments/assets/18e5a81f-b964-4225-8e40-e07b2055eac7)
+![image](https://github.com/user-attachments/assets/36a14fb5-02eb-4436-a3d0-7bc95971836d)
+![image](https://github.com/user-attachments/assets/3808d4ad-b5bd-4709-8383-2d9a845c81b1)
+![image](https://github.com/user-attachments/assets/c8fbf60d-7993-4cdc-a6ac-e61164151bca)
+![image](https://github.com/user-attachments/assets/d14c30e7-8cc1-4520-872d-c1780dfd9685)
+![image](https://github.com/user-attachments/assets/7462ae40-b714-4935-bcb8-0fa206070e88)
 
 ## 👥 팀 구성
 <table>
@@ -103,8 +97,8 @@
 
 | 역할 | 종류 |
 | --- | --- |
-| Framework | <img alt="spring" src ="[https://img.shields.io/badge/Spring framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white](https://img.shields.io/badge/Spring%20framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)"/> <img alt="springsecurity" src="[https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)" /> |
-| Database | <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white"> <img src="[https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white)"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">  |
+| Framework | <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> |
+| Database | <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white"> <img src="[https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=MyBatis&logoColor=white)"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">  |
 | Programming Language | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> |
 
 ### 💬 Chatbot Server
@@ -112,7 +106,7 @@
 | 역할 | 종류 |
 | --- | --- |
 | Framework | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"> |
-| Cloud Service | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"> |
+| Cloud Service | <img src="https://img.shields.io/badge/openai-412991?style=for-the-badge&logo=openai&logoColor=white"> |
 | Programming Language | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> |
 
 ## ⚙️ 서비스 아키텍처
