@@ -116,3 +116,23 @@
 ## 🗂️ ERD
 <img src="https://github.com/user-attachments/assets/2c4d7c53-0a0c-43cf-b831-aea78fd83f7d" width="70%"/>
 
+## 📱 화면
+### 👤 **회원**
+
+<div align="center">
+<table>
+<tr align="center">
+<th>스플래시</th>
+<th>회원가입</th>
+<th>로그인</th>
+</tr>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/9acf4839-cde4-41c0-8c2c-44b752fa34d5" width=300 /></td>
+<td><img src="https://github.com/user-attachments/assets/c42fb888-09af-4adf-9b3f-fc0eb8f822b6" width=300 /></td>
+<td><img src="https://github.com/user-attachments/assets/48aebb61-b505-45d9-8a7e-38bd160b8269" width=300 /></td>
+</tr>
+
+</table>
+
+</div>
+<br>
