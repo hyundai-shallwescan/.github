@@ -212,7 +212,7 @@
 <br>
 
 ### 💬 채팅 & 알림
-
+*방문고객과 외부일행 화면은 함께 봐주세요!
 <div align="center">
 <table>
 <tr align="center">
