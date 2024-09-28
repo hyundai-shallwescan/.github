@@ -144,9 +144,9 @@
 </tr>
 <tr>
 
-<td><img src="https://github.com/user-attachments/assets/ffed4985-31ea-4159-be47-d444ec9e4dd1" width=250 /></td>
-<td><img src="https://github.com/user-attachments/assets/c42fb888-09af-4adf-9b3f-fc0eb8f822b6" width=250 /></td>
-<td><img src="https://github.com/user-attachments/assets/48aebb61-b505-45d9-8a7e-38bd160b8269" width=250 /></td>
+<td><img src="https://github.com/user-attachments/assets/ffed4985-31ea-4159-be47-d444ec9e4dd1" width=220 /></td>
+<td><img src="https://github.com/user-attachments/assets/c42fb888-09af-4adf-9b3f-fc0eb8f822b6" width=220 /></td>
+<td><img src="https://github.com/user-attachments/assets/48aebb61-b505-45d9-8a7e-38bd160b8269" width=220 /></td>
 </tr>
 </table>
 
@@ -183,8 +183,8 @@
 <th>젤뽀챗봇</th>
 </tr>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/df5ba313-87db-4542-b858-be1f0d0a358c" width=250 /></td>
-<td><img src="https://github.com/user-attachments/assets/deae80ce-eacf-4749-88a3-0477064a45fc" width=250 /></td>
+<td><img src="https://github.com/user-attachments/assets/df5ba313-87db-4542-b858-be1f0d0a358c" width=220 /></td>
+<td><img src="https://github.com/user-attachments/assets/deae80ce-eacf-4749-88a3-0477064a45fc" width=220 /></td>
 </tr>
 </table>
 </div>
@@ -220,8 +220,8 @@
 <th>외부일행-채팅</th>
 </tr>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/eb9c26d7-561f-4dc6-9039-64247b05b929" width=250 /></td>
-<td><img src="https://github.com/user-attachments/assets/5f6900e5-e042-4b58-8c79-30bfb801d440" width=250 /></td>
+<td><img src="https://github.com/user-attachments/assets/eb9c26d7-561f-4dc6-9039-64247b05b929" width=220 /></td>
+<td><img src="https://github.com/user-attachments/assets/5f6900e5-e042-4b58-8c79-30bfb801d440" width=220 /></td>
 </tr>
 </table>
 </div>
@@ -238,9 +238,9 @@
 <th>추가 상품 제안</th>
 </tr>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/42e2ba59-b48f-4df2-ac11-03dc14b88987" width=250 /></td>
-<td><img src="https://github.com/user-attachments/assets/3082e5cc-623a-461a-82d1-57b5b5a2ecd7" width=250 /></td>
-<td><img src="https://github.com/user-attachments/assets/72efbec4-6a63-4098-b0a7-a3d6fa1641ce" width=250 /></td>
+<td><img src="https://github.com/user-attachments/assets/42e2ba59-b48f-4df2-ac11-03dc14b88987" width=220 /></td>
+<td><img src="https://github.com/user-attachments/assets/3082e5cc-623a-461a-82d1-57b5b5a2ecd7" width=220 /></td>
+<td><img src="https://github.com/user-attachments/assets/72efbec4-6a63-4098-b0a7-a3d6fa1641ce" width=220 /></td>
 </tr>
 </table>
 </div>
@@ -254,8 +254,8 @@
 <th>외부일행-일행요청리스트</th>
 </tr>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/bf79dcb8-ff91-43da-9a61-a54be239a00a" width=250 /></td>
-<td><img src="https://github.com/user-attachments/assets/1dc67f3d-7453-4296-8ee9-0f482def9aa3" width=250 /></td>
+<td><img src="https://github.com/user-attachments/assets/bf79dcb8-ff91-43da-9a61-a54be239a00a" width=220 /></td>
+<td><img src="https://github.com/user-attachments/assets/1dc67f3d-7453-4296-8ee9-0f482def9aa3" width=220 /></td>
 </tr>
 </table>
 </div>
@@ -271,8 +271,8 @@
 <th>상품 조회</th>
 </tr>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/3e1c26f1-8228-498d-be04-3fcc2434e02e" width=250 /></td>
-<td><img src="https://github.com/user-attachments/assets/eac04eb9-43e4-41e4-9e39-ba8af862b3e1" width=250 /></td>
+<td><img src="https://github.com/user-attachments/assets/3e1c26f1-8228-498d-be04-3fcc2434e02e" width=220 /></td>
+<td><img src="https://github.com/user-attachments/assets/eac04eb9-43e4-41e4-9e39-ba8af862b3e1" width=220 /></td>
 </tr>
 </table>
 </div>
@@ -288,8 +288,8 @@
 <th>워치-무료주차시간조회</th>
 </tr>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/df7508a5-1157-43b7-a44a-ea21df61842d" width=250 /></td>
-<td><img src="https://github.com/user-attachments/assets/020546fe-b951-4c7f-b746-866707aac233" width=250 /></td>
+<td><img src="https://github.com/user-attachments/assets/df7508a5-1157-43b7-a44a-ea21df61842d" width=220 /></td>
+<td><img src="https://github.com/user-attachments/assets/020546fe-b951-4c7f-b746-866707aac233" width=220 /></td>
 </tr>
 </table>
 </div>
