@@ -254,8 +254,8 @@
 <th>외부일행-일행요청리스트</th>
 </tr>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/bf79dcb8-ff91-43da-9a61-a54be239a00a" width=300 /></td>
-<td><img src="https://github.com/user-attachments/assets/1dc67f3d-7453-4296-8ee9-0f482def9aa3" width=300 /></td>
+<td><img src="https://github.com/user-attachments/assets/bf79dcb8-ff91-43da-9a61-a54be239a00a" width=250 /></td>
+<td><img src="https://github.com/user-attachments/assets/1dc67f3d-7453-4296-8ee9-0f482def9aa3" width=250 /></td>
 </tr>
 </table>
 </div>
