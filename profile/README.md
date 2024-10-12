@@ -97,8 +97,9 @@
 
 ### 🤖 Android
 
-| Platform | <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">  |
+| 역할 | 종류 |
 | --- | --- |
+| Platform | <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=android&logoColor=white">  |
 | Cloud Service | <img src="https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"> |
 | Programming Language | <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">  |
 
